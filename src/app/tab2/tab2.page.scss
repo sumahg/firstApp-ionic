@@ -1,1 +1,18 @@
-
+ion-img{
+    width:100%;
+}
+.mycard{
+    position: relative;
+}
+.bhillwara{
+    position: absolute;
+    top: 50%;  
+     left:50%;                      /* 3 */
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size:22px;
+    font-weight: bold;
+}
+ion-title{
+    color:white;
+}

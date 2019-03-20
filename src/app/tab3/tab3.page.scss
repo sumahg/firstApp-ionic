@@ -1,1 +1,21 @@
 
+ion-img{
+    width:100%;
+  }
+  
+  .myCard{
+    position:relative;
+  
+  }
+  
+  .myOverlay{
+      position: absolute;
+      font-size:22px;
+      font-weight:bold;
+      top:50%;
+      left:50%;
+      transform: translate(-50%, -50%);
+      z-index: 1;
+      color: red;
+  
+  }
